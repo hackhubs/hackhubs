@@ -23,7 +23,7 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Eng
 - 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
-- 📝 See my [Curriculum Vitae]() to get more info.
+
 
 
 

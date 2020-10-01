@@ -1,18 +1,16 @@
 ### Hey 👋, I'm Abhav
 
-<a href="https://www.linkedin.com/in/abhav-thakur-6603b3176/">
-  <img align="left" alt="Abhav LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 <a href="https://www.kaggle.com/abhavthakur">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Abhav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/abhav.thakur.3/">
   <img align="left" alt="Abhav Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hackhubs)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhav-thakur-6603b3176/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/white_devilll/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Abhav:abhav.thakur25@gmail.com)
 <br />
 <br />
 
@@ -47,35 +45,13 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Eng
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 !
+<p align="center">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  </a>
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+</p>
 
-<!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
-
-&nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
 
 **Languages and Tools:** 
 

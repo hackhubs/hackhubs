@@ -1,31 +1,31 @@
 ### Hey 👋, I'm Abhav
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abhav-thakur-6603b3176/">
+  <img align="left" alt="Abhav LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
+<a href="https://www.kaggle.com/abhavthakur">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abhav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/abhav.thakur.3/">
+  <img align="left" alt="Abhav Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **Abhav Thakur**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/abhavthakur), and an Artificial Intelligence enthusiast👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🌱 I’m currently learning Deep Reinforcement Learning and androd app development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
 - 📝 See my [Curriculum Vitae]() to get more info.

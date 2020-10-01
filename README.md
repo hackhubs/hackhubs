@@ -7,12 +7,12 @@
 <a href="https://www.facebook.com/abhav.thakur.3/">
   <img align="left" alt="Abhav Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br />
+<br />
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hackhubs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhav-thakur-6603b3176/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/white_devilll/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Abhav:abhav.thakur25@gmail.com)
-<br />
-<br />
 
 Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/abhavthakur), and an Artificial Intelligence enthusiast👨🏽‍💼. 
 

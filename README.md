@@ -40,13 +40,12 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Eng
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-
-!
-<p align="center">
+ <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
 </p>
+
 
 

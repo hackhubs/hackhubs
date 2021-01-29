@@ -18,7 +18,7 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Eng
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an focusing on Competative Coding and contribution to open source projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning and androd app development; 
+- 🌱 I’m currently learning Deep Reinforcement Learning and androd app development using React Native.; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;

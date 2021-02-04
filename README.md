@@ -1,4 +1,4 @@
-### Hey 👋, I'm Abhav
+### Hey 👋, I'm Abhav Thakur
 
 
 <a href="https://www.kaggle.com/abhavthakur">

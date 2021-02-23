@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/abhavthakur), and an Artificial Intelligence enthusiast👨🏽‍💼. 
+Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), a React Native Developer and an Artificial Intelligence enthusiast👨🏽‍💼. 
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -18,7 +18,7 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack Developer**  and a **Software Eng
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an focusing on Competative Coding and contribution to open source projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning and androd app development using React Native.; 
+- 🌱 I’m currently learning androd app development using React Native.; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;

@@ -1,11 +1,11 @@
 About me at :- https://abhav.herokuapp.com/#home
 # 💫About Me :
 👨🏽‍💻 I’m currently focusing on competitive Coding and contribution to open source projects;
-🌱 I’m currently learning androd app development using React Native.;
+🌱 I’m currently working as an androd app development using React Native.;
 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 💬 Ask me about anything, I am happy to help;
-📫 Please email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
+📫 Reach me via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in.
 
 
 ## 🌐Socials

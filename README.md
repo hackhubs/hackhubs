@@ -1,6 +1,6 @@
 About me at :- https://abhav.herokuapp.com/#home
 # 💫About Me :
-👨🏽‍💻 I’m currently focusing on Competative Coding and contribution to open source projects;
+👨🏽‍💻 I’m currently focusing on competitive Coding and contribution to open source projects;
 🌱 I’m currently learning androd app development using React Native.;
 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
